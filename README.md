@@ -9,7 +9,7 @@
 ## 👀 Sobre
 
   Feito automação de testes de API de uma lojinha, onde o desafio foi criar usuários, logar com os usuários,
-  cada usuario após logado teria um token proprio para poder cadastrar produtos <br>
+  cada usuario após logado vai ter um token proprio para poder cadastrar produtos <br>
   
   Swagger da API: http://165.227.93.41/lojinha-arquivos/Swagger.pdf
   
