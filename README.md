@@ -8,8 +8,17 @@
 
 ## 👀 Sobre
 
-  <br>
-
+  Feito automação de testes de API de uma lojinha, onde o desafio foi criar usuários, logar com os usuários,
+  cada usuario após logado teria um token proprio para pode cadastrar produtos <br>
+  
+  Swagger da API: http://165.227.93.41/lojinha-arquivos/Swagger.pdf
+  
+  ## Foi realizado a automação de:<br>
+    Cadastro de usuário.✅
+    Login de Usuário.   ✅
+    Cadastro de Produto.✅
+    Busca dos Produtos. ✅
+    
 ---
 
 ## 💻 Tecnologias utilizadas
