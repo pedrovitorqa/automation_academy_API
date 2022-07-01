@@ -5,7 +5,6 @@ end
   
 Então('o serviço Products deve responder com {int}') do |status_code|
     expect(@request_products.code).to eq status_code
-    print @request_products.code
 end
   
 Quando('faço uma requisição GET para retornar os produtos') do
