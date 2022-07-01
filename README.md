@@ -17,8 +17,7 @@
     Cadastro de usuário.✅
     Login de Usuário.   ✅
     Cadastro de Produto.✅
-    Busca dos Produtos. ✅
-    
+    Busca dos Produtos. ✅ 
 ---
 
 ## 💻 Tecnologias utilizadas
@@ -45,6 +44,7 @@ Siga os seguintes passos para executar os testes:
 Confirmação dos cenários rodando
 
 Terminal:
+![image](https://user-images.githubusercontent.com/69403840/176925740-2fd32c44-b1e0-457c-abbc-756ea5a77ae7.png)
 
 
 
