@@ -2,7 +2,7 @@
 
   @products
   Funcionalidade: Products
-     validar operações da API Users
+     validar operações da API Products
 
     @post_products
     Cenário: Validar cadastro de produto POST API 
